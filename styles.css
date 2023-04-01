@@ -1,0 +1,158 @@
+body
+{
+    margin:0;
+}
+* a
+{
+    color: black; 
+    text-decoration: none;
+}
+.navbar-nav li:not(:last-child) 
+{
+    margin-right: 50px;
+}
+.buttons
+{
+    margin-left: 6.5%;
+    margin-top: 12%;
+    width: 2%;
+}
+.button2
+{
+    margin-left: 6.5%;
+    margin-top: 2%;
+    width: 2%;
+}
+.message
+{
+    max-width: 100%;
+    max-height: 100%;
+}
+.call
+{
+    max-width: 100%;
+    max-height: 100%;
+}
+#name
+{
+    height: 20%;
+    width: 150%;
+    border: none;
+    border-bottom: 1px solid gray;
+    margin: 0;
+    padding: 3%;
+}
+.textbox-container
+{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+.text1
+{
+    margin-left: 17%;
+    margin-right: 13%;
+    margin-top: -25%;
+    width: 8%;
+}
+.text2
+{
+    margin-top: -25%;
+    width: 8%;
+}
+#message 
+{   
+    border: 1px solid black;
+    border-top: none;
+    margin-bottom: 2%;;
+    padding-bottom: 20%;
+    width: 100%;
+}
+.textarea
+{
+    margin-left: 17%;
+    margin-top: -9.7%;
+    width: 33.1%;
+    text-align: center;
+}
+.pic
+{
+    margin-left: 69%;
+    margin-top: -20%;
+    height: 20%;
+    width: 17%;
+    text-align: center;
+}
+.pic1
+{
+    max-width: 100%;
+    max-height: 100%;
+}
+#footnote
+{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1.8%;
+    background-color: #EEEEEE;
+    height: 60%;
+    width: 100%;
+}
+#footnote a
+{
+    color: black;
+    text-decoration: none;
+}
+.footnote-col1
+{
+    width: 10%;
+    margin-left: 11%;
+}
+.footnote-col2
+{
+    margin-left: 10%;
+    width: 40%;
+
+}
+.footnote-col3
+{
+    margin-left: -16%;
+    width: 20%;
+
+}
+.foot
+{
+    display: flex;
+    background-color: #EEEEEE;
+    padding-bottom: 0.6%;
+}
+.f1
+{
+    width: 33.3%;
+    margin-left: 11%;
+}
+.f2
+{
+    text-align: center;
+    margin-left: -12%;
+    width: 33.3%;
+}
+.f3
+{
+    text-align: center;
+    margin-left: 16.5%;
+    width: auto;
+}
+.hd
+{
+    font-size: 1.3em;
+}
+.up
+{
+    margin-right: -120%;
+    margin-top: -20%;
+}
+.f2 a, .f3 a
+{
+    color: black;
+    text-decoration: none;
+}
